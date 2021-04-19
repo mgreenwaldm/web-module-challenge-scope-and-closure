@@ -9,6 +9,9 @@ The module challenge is the afternoon project or assignment that students work t
 ## Objectives
 
 - Explain function scope
+
+scope is like steps that must be followed inorder to achieve your goal. 
+
 - Describe what closure is, how closure is created in a program and why it is important to understand closures in JavaScript  
 
 ## Introduction
